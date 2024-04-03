@@ -1,12 +1,10 @@
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa256bzIxcTYwcmtnOGgzem1pMWkwZm5sZHRtcWJ1Yms0dW5wMGJnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa256bzIxcTYwcmtnOGgzem1pMWkwZm5sZHRtcWJ1Yms0dW5wMGJnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="500"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ajani-motta-aa3b03113"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ajanimotta&style=flat-square&color=blue" alt=""></p>
-
-<h1 align="center">hey there 👋🏾 </h1>
 
 ### 👨🏾‍💻 &nbsp;About Me :
 
