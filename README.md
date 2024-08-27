@@ -13,6 +13,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 💻 3+ years of web & mobile development experience specializing in React, TypeScript, and serverless technologies.
 - 🌱 Eager to contribute to an innovative team and advance into an engineering manager role.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ajani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajani-motta-aa3b03113)
+- [BLOG POST - Using Amazon Kinesis Data Firehose to generate business insights](https://blog.theodo.com/2022/08/business-insights-with-firehose/)
 
 ---
 
