@@ -44,5 +44,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### ✍🏾 Blog Posts : 
 - [Using Amazon Kinesis Data Firehose to generate business insights](https://blog.theodo.com/2022/08/business-insights-with-firehose/)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🛠️ Open Source Contributions : 
+- [SLS Mentor](https://github.com/sls-mentor/sls-mentor)
